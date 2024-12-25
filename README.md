@@ -77,5 +77,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ### 📫 Stay Connected
-Follow me on [LinkedIn](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-handle)
+Follow me on [LinkedIn](https://linkedin.com/in/ak901d)
 
