@@ -1,6 +1,6 @@
 # 🚀 Interviews
 
-Welcome to the **ultimate repository** for AI and Data Engineering interview preparation! This repository includes a curated collection of coding problems, theoretical questions, and behavioral scenarios from **real-life interviews**. These questions are organized by company, role, and category.
+Welcome to the **ultimate repository** for AI and Python roles interview preparation! This repository includes a curated collection of coding problems, theoretical questions, and behavioral scenarios from **real-life interviews**. These questions are organized by company, role, and category.
 
 ---
 
