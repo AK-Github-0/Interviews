@@ -1,6 +1,6 @@
 # 🚀 Interviews
 
-Welcome to the **ultimate repository** for AI and Python roles interview preparation! This repository includes a curated collection of coding problems, theoretical questions, and behavioral scenarios from my **real-life interviews**. These questions are organized by company, role, and category.
+Welcome to the repository for AI and Python roles interview preparation with the help of my interviews This repository includes a curated collection of coding problems, theoretical questions, and behavioral scenarios from my **real-life interviews**. These questions are organized by company, role, and category.
 
 ---
 
