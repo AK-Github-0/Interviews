@@ -26,7 +26,7 @@ Welcome to the repository for AI and Python roles interview preparation with the
 
 1. **Navigate by Company**:  
    - Check questions for specific companies you're targeting.
-   - Example: `coding-questions/google/` or `theoretical-questions/meta/`.
+   - Example: `coding-questions/sytems/` or `theoretical-questions/cognizant/`.
 
 2. **General Practice**:  
    - Review frequently asked questions in `general-questions/`.
@@ -52,15 +52,6 @@ Welcome to the repository for AI and Python roles interview preparation with the
 ### Behavioral Questions
 - STAR method examples.
 - Leadership and teamwork scenarios.
-
----
-
-## 🔥 Featured Companies
-- Google
-- Meta
-- Amazon
-- Microsoft
-- Netflix
 
 ---
 
